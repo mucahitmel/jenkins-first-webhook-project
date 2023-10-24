@@ -1,1 +1,1 @@
-print('Hello Osmancım')
+print('Hello Osmancımsadas:w')
